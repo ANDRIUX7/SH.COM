@@ -1,6 +1,6 @@
 POLITICAS DE PRIVACIDAD THE KING VPN
 
-Fecha última actualización: 07/04/2025 De conformidad con el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento General de Protección de Datos - RGPD), ClayConexiones, informa a los usuarios de la aplicación ClaySocket VPN (en adelante, la Aplicación), acerca del tratamiento de los datos personales, que ellos voluntariamente hayan facilitado durante el proceso de registro, acceso y utilización del servicio.
+En lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos (Reglamento General de Protección de Datos - RGPD), ClayConexiones, informa a los usuarios de la aplicación ClaySocket VPN (en adelante, la Aplicación), acerca del tratamiento de los datos personales, que ellos voluntariamente hayan facilitado durante el proceso de registro, acceso y utilización del servicio.
 
 1. IDENTIFICACIÓN DEL RESPONSABLE DEL TRATAMIENTO.
 
@@ -39,6 +39,7 @@ ClayConexiones, informa al Usuario de que le asisten los derechos de acceso, rec
 
 
 En aplicación de la LSSI (Ley de Servicios de la Sociedad de la Información), ANDRIUX VIP, no enviará comunicaciones publicitarias o promocionales por correo electrónico u otro medio de comunicación electrónica equivalente que previamente no hubieran sido solicitadas o expresamente autorizadas por los destinatarios de las mismas. En el caso de usuarios con los que exista una relación contractual, jurídica o de servicios previa, el Responsable del Tratamiento, sí está autorizado al envío de comunicaciones comerciales referentes a productos o servicios del Responsable que sean similares a los que inicialmente fueron objeto de contratación con el cliente. En caso de que el Usuario quiera darse de baja a la hora de recibir las citadas comunicaciones, podrá hacerlo remitiendo su voluntad por e-mail al correo electrónico: andriuxcr@gmail.com.
+
 
 
 

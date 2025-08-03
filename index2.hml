@@ -9,7 +9,7 @@
   <style>
 
 body {
-      background-image: url("IMGS/STREAMING.PNG");
+      background-image: url("STREAMING/IMGS/STREAMING.PNG");
       background-repeat: no-repeat;
       background-position: center center;
       background-color: #0a0a0a;
@@ -147,7 +147,7 @@ body {
     </div>
 
     <div class="card">
-      <img src="IMGS/X.PNG" alt="Game Pass XBOX">
+      <img src="STREAMING/IMGS/X.PNG" alt="Game Pass XBOX">
       <div class="title">Game Pass XBOX</div>
       <div>📅 1 Mes - Acceso Total</div>
       <div class="price">💰 $30.000 COP</div>
@@ -157,7 +157,7 @@ body {
     </div>
 
     <div class="card">
-      <img src="IMGS/C.PNG" alt="Crunchyroll">
+      <img src="STREAMING/IMGS/C.PNG" alt="Crunchyroll">
       <div class="title">Crunchyroll</div>
       <div>📅 1 Mes - Cuenta Individual</div>
       <div class="price">💰 $20.000 COP</div>
@@ -167,7 +167,7 @@ body {
     </div>
 	
     <div class="card">
-      <img src="IMGS/Y.PNG" alt="YouTube Premium">
+      <img src="STREAMING/IMGS/Y.PNG" alt="YouTube Premium">
       <div class="title">YouTube Premium</div>
       <div>📅 1 Mes - Cuenta Individual</div>
       <div class="price">💰 $20.000 COP</div>
@@ -190,7 +190,7 @@ body {
    <H3>Cuentas de Streaming 100% Seguras y Privadas</H3><P>
   <!-- Botón WhatsApp con imagen -->
 <a href="https://wa.me/573144474637" class="whatsapp-link" target="_blank">
-  <img src="IMGS/W.png" alt="WhatsApp" class="whatsapp-icon">
+  <img src="STREAMING/IMGS/W.png" alt="WhatsApp" class="whatsapp-icon">
   Contáctanos por WhatsApp
 </a>
 
@@ -228,3 +228,4 @@ body {
 </body>
 
 </html>
+
